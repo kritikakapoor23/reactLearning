@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.page1{
+    height: 200vh;
+    width: 100%;
+    background: #111;
+}
+.page2{
+    height: 200vh;
+    width: 100%;
+    background: #222;
+}
+.page3{
+    height: 200vh;
+    width: 100%;
+    background: #333;
+}
