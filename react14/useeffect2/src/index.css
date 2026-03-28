@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  font-family: system-ui, 'Helvetica Neue', sans-serif;
+  background: #000;
+  color: white;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+button{
+  background-color: rgb(245, 245, 240);
+  color: rgb(68, 68, 68);
+  padding: 10px 30px;
+  margin: 10px;
+  font-weight: bolder;
+}
