@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body{
+  width: 100%;
+  height: 100%;
+}
+
+.nav{
+  display: flex;
+  background: rgb(225, 93, 115);
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 20px;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+}
